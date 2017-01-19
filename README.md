@@ -1,6 +1,6 @@
 # \\[T]/   L'eval du ghetto   \\[T]/ </h1>
 # EvalWordPress
-<!doctype html>
+
 <html lang="fr">
 <head>
   <meta charset="utf-8">
