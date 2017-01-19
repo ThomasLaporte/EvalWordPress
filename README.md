@@ -1,10 +1,8 @@
 # \\[T]/   L'eval du ghetto   \\[T]/ </h1>
-# EvalWordPress
 
 <html lang="fr">
 <head>
   <meta charset="utf-8">
-  <title>Titre de la page</title>
   <link rel="stylesheet" href="wp-content/themes/skeleton_childtheme/style.css">
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 </head>
